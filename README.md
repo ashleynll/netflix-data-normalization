@@ -1,1 +1,1 @@
-# netflix-data-cleaning
+Normalizing a database using Python (NumPy + Pandas 🐼)
